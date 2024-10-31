@@ -2,7 +2,8 @@
 
 ## Software Versions
 
-
+[V1.0.0 - GigBAR Bridge ILs](https://github.com/Chauvet-DJ/GIGBARBRIDGEILS/blob/7f5664070406374a4dd79ae6d7a2023cb3a6864e/Firmware/V1.0.0.zip)
+- Released initial software version
 
 &nbsp;
 

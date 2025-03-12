@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.01 - GigBAR Bridge ILS](https://github.com/Chauvet-DJ/GIGBARBRIDGEILS/blob/83599c56cb189a00fdd89f06e7863dbab75dabf4/Firmware/V1.01.zip)
+- Fixed a bug that prevent firmware update
+
 [V1.00 - GigBAR Bridge ILs](https://github.com/Chauvet-DJ/GIGBARBRIDGEILS/blob/7f5664070406374a4dd79ae6d7a2023cb3a6864e/Firmware/V1.0.0.zip)
 - Released initial software version
 
